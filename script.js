@@ -6,61 +6,67 @@ const songs = [
       image: "https://raw.githubusercontent.com/developergtm24/music-web/main/image%20musuic.jpg"
     },
     {
-      name: "Tum Se",
-      link: "https://pagalsongs.com.in/siteuploads/files/sfd3/1494/Tum%20Se-(PagalSongs.Com.IN).mp3",
-      artists: "Sachin-Jigar",
-      image: "https://raw.githubusercontent.com/developergtm24/music-web/main/image%20musuic.jpg"
+      name: "Jhol",
+      link:"https://paagalworld.com.se/download/39896",
+      artists: "Mannu ,Annural Khalid",
+      image: "https://paagalworld.com.se/upload_file/1/400x400/thumb_66d9dfa987180.webp"
     },
-    { name: "Kahani Meri",
-      link: "https://pagalsongs.com.in/files/download/id/11608",
+    { name: "Russian Banda",
+      link:"https://paagalworld.com.se/download/41038",
       artists: "Varun Yadav",
-      image: "https://www.pagalworld.com.so/uploads/thumb/sft41/20202_4.jpg"
+      image: "https://paagalworld.com.se/upload_file/2/400x400/thumb_67321206095fe.webp"
     },
-    { name: "Sajni Re",
-      link: "https://www.pagalworld.com.so/files/download/type/320/id/20202",
-      artists: "Arijit Singh",
-      image: "https://www.pagalworld.com.so/uploads/thumb/sft41/20202_4.jpg"
+    { name: "Hass Hass",
+      link: "https://paagalworld.com.se/download/37067?q=320",
+      artists: "Diljit Dosanjh , Sia",
+      image: "https://paagalworld.com.se/upload_file/1/400x400/thumb_653b51722d7a0.webp"
     },
-    { name: "Matak Chalaungi",
-      link: "https://www.pagalworld.com.tw/files/download/type/320/id/9100",
-      artists: "Raj Mawar, Manisha Sharma",
-      image: "https://www.pagalworld.com.tw/siteuploads/thumb/sft19/9100_4.jpg"
-    },
-    {
-      name:"System Pe System",
-      link:"https://www.pagalworld.com.tw/files/download/type/320/id/8631",
-      artists:"R Mann",
-      image:"https://www.pagalworld.com.tw/siteuploads/thumb/sft18/8631_4.jpg"
+    { name: "4 5 Pistol",
+      link: "https://paagalworld.com.se/download/49852",
+      artists: "Masoom Sharma , Swara Verma",
+      image: "https://paagalworld.com.se/upload_file/2/400x400/thumb_6827eebe20d1f.webp"
     },
     {
-      name:"Ego Baat Batai",
-      link:"https://www.pagalworld.com.tw/files/download/type/320/id/9592",
-      artists:"Keshari Lal Yadav",
-      image:"https://www.pagalworld.com.tw/siteuploads/thumb/sft20/9592_4.jpg"
+      name:"2 Khatole",
+      link:"https://paagalworld.com.se/download/42750?q=320",
+      artists:"Masoom Sharma",
+      image:"https://paagalworld.com.se/upload_file/2/400x400/thumb_67d8f4de513e8.webp"
     },
     {
-      name:"Pandey Ji Ka Beta Hu",
-      link:"https://pagalsongs.com.in/files/download/id/10064",
-      artists:"Pradeep Pandey",
-      image:"https://pagalsongs.com.in/siteuploads/thumb/sft21/10064_7.webp"
+      name:"60 mukadame",
+      link:"https://paagalworld.com.se/download/42738",
+      artists:"Masoom Sharma , Shiva Choudhary",
+      image:"https://paagalworld.com.se/upload_file/2/400x400/thumb_67d8f36f8e33e.webp"
     },
     {
-      name:"Herione",
-      link:"https://www.pagalworld.com.sb/files/download/type/320/id/65221",
-      artists:"Neelkamal Singh",
-      image:"	https://www.pagalworld.com.sb/siteuploads/thumb/sft131/65221_4.jpg"
+      name:"Pistol Bole Gi",
+      link:"https://paagalworld.com.se/download/41209",
+      artists:"Masoom Sharma",
+      image:"https://paagalworld.com.se/upload_file/2/400x400/thumb_675eb289b9fa4.webp"
     },
     {
-      name:"Paon Ki Jutti",
-      link:"https://www.pagalworld.com.sb/files/download/type/320/id/71059",
+      name:"Blender (feat. Dev Chouhan,Pooja Saxena)",
+      link:"https://paagalworld.com.se/download/41031",
+      artists:"Masoom Sharma , Swara Verma ,",
+      image:"https://paagalworld.com.se/upload_file/2/400x400/thumb_6732112ae6c13.webp"
+    },
+    {
+      name:"Thaa Ke Le Jaanga",
+      link:"https://paagalworld.com.se/download/39756?q=320",
+      artists:"Masoom Sharma , Ashu Twinkle",
+      image:"https://paagalworld.com.se/upload_file/2/400x400/thumb_6697e1e96b291.webp"
+    },
+    {
+      name:"Laal Pari",
+      link:"https://paagalworld.com.se/download/54662",
+      artists:"Yo Yo Honey Singh , Simar Kaur , Alfaaz",
+      image:"https://paagalworld.com.se/upload_file/963/964/1655/400x400/thumb_68499e6b723ec.webp"
+    },
+     {
+      name:" Dekha Ji Dekha Maine",
+      link:"https://pagalnew.com/320-download/50748",
       artists:"Jyoti Nooran",
-      image:"https://www.pagalworld.com.sb/siteuploads/thumb/sft143/71059_4.jpg"
-    },
-    {
-      name:"Seenu Junnu",
-      link:"https://www.pagalworld.com.sb/files/download/type/320/id/70680",
-      artists:"Developer Song",
-      image:"https://www.pagalworld.com.sb/siteuploads/thumb/sft142/70680_4.jpg"
+      image:"https://pagalnew.com/coverimages/dekha-ji-dekha-maine-jyoti-nooran-500-500.jpg"
     },
   ];
   
@@ -178,4 +184,5 @@ const songs = [
       song.play();
     }
   }
+  
   
